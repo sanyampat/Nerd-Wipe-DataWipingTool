@@ -1,11 +1,3 @@
-# Secure Data Wiping Tool  
-
-**Team ID:** 86256  
-**Team Name:** Wanna Be Nerds  
-**Problem Statement:** SIH 25070 – Secure Data Wiping Tool  
-
----
-
 ## 📌 Overview  
 Our solution is a **cross-platform secure data wiping tool** designed to ensure **complete and permanent erasure of sensitive data**. It works on **Windows, Linux, and Bootable USB/ISO**, making it effective in both **online and offline environments**.  
 
