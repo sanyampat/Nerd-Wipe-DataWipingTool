@@ -1,5 +1,5 @@
-## 📌 Overview  
-Our solution is a **cross-platform secure data wiping tool** designed to ensure **complete and permanent erasure of sensitive data**. It works on **Windows, Linux, and Bootable USB/ISO**, making it effective in both **online and offline environments**.  
+## Overview  
+This is a **cross-platform secure data wiping tool** designed to ensure **complete and permanent erasure of sensitive data**. It works on **Windows, Linux, and Bootable USB/ISO**, making it effective in both **online and offline environments**.  
 
 The tool supports **HDDs, SATA SSDs, NVMe SSDs, USB drives, and Android devices**, and **automatically applies the most effective sanitization method**. Every wipe is **NIST SP 800-88 compliant** (Clear, Purge, Destroy) and generates a **tamper-proof, digitally signed certificate** as proof of sanitization.  
 
@@ -7,7 +7,7 @@ The tool supports **HDDs, SATA SSDs, NVMe SSDs, USB drives, and Android devices*
 
 ## ✨ Features  
 - 🔹 **Cross-platform:** Works on Windows, Linux, and bootable USB/ISO.  
-- 🔹 **Multi-device support:** HDD, SSD (SATA/NVMe), USB, and Android.  
+- 🔹 **device supports:** HDD, SSD (SATA/NVMe), USB, and Android.  
 - 🔹 **Multiple sanitization methods:**  
   - ATA Secure Erase (SATA HDD/SSD) → Purge  
   - NVMe Format NVM → Purge  
@@ -86,8 +86,9 @@ Public key verification prevents forgery.
 
 Logs are hashed and tamper-proof.
 
-👨‍💻 Team Members
-Wanna Be Nerds (Team ID: 86256)
+Team Members
+Wanna Be Nerds
+@SanyamPat
 
-⚠️ Disclaimer
+Disclaimer
 This tool is designed for secure data wiping. Running it on active system disks will result in permanent data loss. Use with caution.
