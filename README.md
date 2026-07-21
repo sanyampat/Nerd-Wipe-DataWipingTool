@@ -5,7 +5,7 @@ The tool supports **HDDs, SATA SSDs, NVMe SSDs, USB drives, and Android devices*
 
 ---
 
-## ✨ Features  
+## ✨✨ Features  
 - 🔹 **Cross-platform:** Works on Windows, Linux, and bootable USB/ISO.  
 - 🔹 **device supports:** HDD, SSD (SATA/NVMe), USB, and Android.  
 - 🔹 **Multiple sanitization methods:**  
