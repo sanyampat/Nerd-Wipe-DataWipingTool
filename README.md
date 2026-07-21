@@ -5,7 +5,7 @@ The tool supports **HDDs, SATA SSDs, NVMe SSDs, USB drives, and Android devices*
 
 ---
 
-## ✨✨ Features  
+## Features  
 - 🔹 **Cross-platform:** Works on Windows, Linux, and bootable USB/ISO.  
 - 🔹 **device supports:** HDD, SSD (SATA/NVMe), USB, and Android.  
 - 🔹 **Multiple sanitization methods:**  
@@ -22,7 +22,7 @@ The tool supports **HDDs, SATA SSDs, NVMe SSDs, USB drives, and Android devices*
 
 ---
 
-## 🚀 How to Build & Run (Linux)  
+## How to Build & Run (Linux)  
 
 ### Prerequisites  
 - g++ or clang++ (C++17)  
@@ -37,7 +37,7 @@ bash
 Copy code
 # List drives and sanitize (must run as root)
 sudo ./sanitize /dev/sdX
-⚠️ Important: Do not run on your system disk. Use a test disk or a loopback device.
+!!! Important: Do not run on your system disk. Use a test disk or a loopback device.
 
 Safe Test with Loopback Device
 bash
@@ -56,7 +56,7 @@ hexdump -C /dev/loop10 | head
 
 # Detach
 sudo losetup -d /dev/loop10
-📜 Certificate Example (JSON)
+ Certificate Example (JSON)
 json
 Copy code
 {
@@ -77,7 +77,7 @@ Copy code
   },
   "signature": "MEUCIQ..."
 }
-🛡️ Security & Compliance
+ Security & Compliance
 NIST SP 800-88 compliant (Clear, Purge, Destroy).
 
 Digital certificates prove sanitization.
