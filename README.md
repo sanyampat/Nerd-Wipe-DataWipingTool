@@ -92,5 +92,6 @@ Wanna Be Nerds
 @SarvagyaPatni
 
 
+
 Disclaimer
-This tool is designed for secure data wiping. Running it on active system disks will result in permanent data loss. Use with caution.
+This tool is designed for secure data wiping. Running it on active system disks will result in permanent data loss. Use with total caution.
