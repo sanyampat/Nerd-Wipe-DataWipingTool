@@ -89,6 +89,8 @@ Logs are hashed and tamper-proof.
 Team Members
 Wanna Be Nerds
 @SanyamPat
+@SarvagyaPatni
+
 
 Disclaimer
 This tool is designed for secure data wiping. Running it on active system disks will result in permanent data loss. Use with caution.
